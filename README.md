@@ -183,7 +183,7 @@ The charts are set in Lato, © tyPoland Łukasz Dziedzic, distributed under the 
 
 ## License
 
-_To be chosen by the author before this repository is made public._ A common pairing is MIT for the code and CC BY 4.0 for the data tables, charts and text.
+This repository is licensed under the [MIT License](LICENSE), copyright © 2026 Joshua Saxe. Third-party materials remain subject to their original terms, including the Lato fonts under the [SIL Open Font License 1.1](fonts/OFL.txt).
 
 ## Citing
 
