@@ -1,0 +1,84 @@
+{
+ "all_2026": 22327,
+ "by_group": {
+  "2025": {
+   "device": [
+    1504,
+    16
+   ],
+   "hyperscale": [
+    287,
+    1
+   ],
+   "large": [
+    1241,
+    11
+   ],
+   "microsoft": [
+    419,
+    4
+   ],
+   "midmarket": [
+    1197,
+    22
+   ],
+   "oss": [
+    1578,
+    6
+   ],
+   "small": [
+    6198,
+    8
+   ]
+  },
+  "2026": {
+   "device": [
+    1833,
+    0
+   ],
+   "hyperscale": [
+    2319,
+    0
+   ],
+   "large": [
+    3546,
+    6
+   ],
+   "microsoft": [
+    1323,
+    2
+   ],
+   "midmarket": [
+    2002,
+    19
+   ],
+   "oss": [
+    5416,
+    6
+   ],
+   "small": [
+    5888,
+    4
+   ]
+  }
+ },
+ "device_2026": 1833,
+ "midmarket_plus_unclassified_share_of_all": 0.217494513369463,
+ "midmarket_plus_unclassified_share_of_mass": 0.5405405405405406,
+ "midmarket_share_of_all": 0.08966721906212209,
+ "midmarket_share_of_mass": 0.5135135135135135,
+ "midmarket_share_of_shown": 0.09768712793988485,
+ "midmarket_with_known_revenue": 637,
+ "shown_total": [
+  20494,
+  37
+ ],
+ "shown_total_2025": [
+  10920,
+  52
+ ],
+ "small_unclassified": [
+  2854,
+  1
+ ]
+}

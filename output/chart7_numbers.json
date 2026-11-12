@@ -1,0 +1,11 @@
+{
+ "placement_counts": [
+  2,
+  5,
+  2
+ ],
+ "update_shares": {
+  "with_pct": 25,
+  "without_pct": 87
+ }
+}

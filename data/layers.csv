@@ -1,0 +1,10 @@
+group,layer,evidence,placement,source
+Build it secure,Threat modeling and secure design,AI can draft the threat model; engineers still own the design. Judgment,1,
+Build it secure,Application security controls,"Sandboxing, authentication, memory-safe code: AI writes it, people decide. Judgment",1,
+Build it secure,Security checks before shipping,Mozilla fixed 271 AI-found bugs in a single Firefox release,0,https://cyberscoop.com/anthropic-mythos-software-flaws-glasswing/
+Find and fix,Continuous bug search and fix,"DARPA contest, 2025: AI found 86% of planted bugs and patched 68%, about $152 a task",0,https://darpa.mil/news/2025/aixcc-results
+Find and fix,Third-party dependency security,"Finding is automated, fixing is not: 516 of 6,157 AI-found open-source bugs patched",1,https://venturebeat.com/security/anthropics-cyber-mission-starts-with-6-157-findings-reported-to-maintainers-and-516-patched
+Find and fix,Structural fixes that remove classes of bug,"Google's CodeMender: 72 fixes accepted in six months, each reviewed by a person",1,https://www.csoonline.com/article/4176164/google-folds-codemender-into-agent-ecosystem-amid-push-for-ai-led-appsec.html
+Respond,Bug bounty,Outside researchers still find what insiders miss; AI helps sort the reports. Judgment,2,
+Respond,Telemetry to catch attacks on unknown vulnerabilities,Needs product telemetry first; Google says its AI helped cut off one exploit before attackers used it,1,https://cloud.google.com/blog/topics/threat-intelligence/ai-vulnerability-exploitation-initial-access
+Respond,Automatic security updates,"A product decision, not an AI problem: {with_pct}% of zero-days spread widely with it, {without_pct}% without",2,chart 4

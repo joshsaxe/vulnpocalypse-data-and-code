@@ -1,0 +1,48 @@
+vendor,applies_to_group,new_group,company,reason
+appleple,hyperscale,midmarket,,"appleple Inc. (a-blog cms), a small Japanese vendor; matched 'apple' by name only"
+androidbubbles,hyperscale,small,,WordPress plug-in author; matched 'android' by name only
+google-cloudstorage-commands,hyperscale,oss,,third-party npm package; not a Google product
+google-it,hyperscale,oss,,third-party npm package; not a Google product
+chromedriver,hyperscale,oss,,third-party npm wrapper; not a Google product
+aws-mcp-server,hyperscale,oss,,third-party open-source project; not an Amazon product
+android-gif-drawable,hyperscale,hyperscale,Meta,the flaw (CVE-2019-11932) was in WhatsApp; company corrected from Google to Meta
+github,*,microsoft,Microsoft,subsidiary of Microsoft since 2018
+linkedin,*,microsoft,Microsoft,subsidiary of Microsoft since 2016
+nuance,*,microsoft,Microsoft,subsidiary of Microsoft since 2022
+activision,*,microsoft,Microsoft,subsidiary of Microsoft since 2023
+minecraft,*,microsoft,Microsoft,Mojang is a Microsoft subsidiary
+virustotal,*,hyperscale,Google,subsidiary of Google
+hcl,midmarket,large,,HCLTech: revenue above $5bn
+brocade,midmarket,large,,owned by Broadcom: revenue above $5bn
+smci,midmarket,large,,Supermicro: revenue above $5bn
+acer,midmarket,large,,revenue above $5bn
+msi,midmarket,large,,revenue above $5bn
+johnson controls,midmarket,large,,revenue above $5bn
+eaton,midmarket,large,,revenue above $5bn
+ni,midmarket,large,,National Instruments is owned by Emerson: revenue above $5bn
+delta,midmarket,large,,Delta Electronics: revenue above $5bn
+deltaww,midmarket,large,,Delta Electronics: revenue above $5bn
+fujielectric,midmarket,large,,Fuji Electric: revenue above $5bn
+fuji electric,midmarket,large,,Fuji Electric: revenue above $5bn
+"fuji electric co., ltd. / hakko",midmarket,large,,Fuji Electric: revenue above $5bn
+keyence,midmarket,large,,revenue above $5bn
+hitachi vantara,midmarket,large,,owned by Hitachi: revenue above $5bn
+hitachi energy,midmarket,large,,owned by Hitachi: revenue above $5bn
+getgrav,midmarket,oss,,Grav CMS: community open-source project
+siyuan-note,midmarket,oss,,SiYuan: open-source project
+concrete cms,midmarket,oss,,open-source project
+wwbn,midmarket,oss,,AVideo: open-source project
+openstack,midmarket,oss,,foundation-run open-source project
+wekan,midmarket,oss,,community open-source project
+casdoor,midmarket,oss,,community open-source project
+phpmyfaq,midmarket,oss,,community open-source project
+thorsten,midmarket,oss,,phpMyFAQ maintainer: community open-source project
+froxlor,midmarket,oss,,community open-source project
+ruoyi,midmarket,oss,,community open-source project
+jeecg,midmarket,oss,,community open-source project
+openemr,midmarket,oss,,community open-source project
+e107,midmarket,oss,,community open-source project
+the wikimedia,midmarket,oss,,foundation-run open-source project
+wikimedia,midmarket,oss,,foundation-run open-source project
+jishenghua,midmarket,oss,,jshERP: community open-source project
+snipeitapp,midmarket,oss,,Snipe-IT: open-source project

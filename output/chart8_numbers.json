@@ -1,0 +1,138 @@
+{
+ "incidents": [
+  {
+   "count": 87000.0,
+   "cves": "CVE-2018-13379",
+   "hosted_hit": "NA",
+   "kind": "Path traversal",
+   "label": "Fortinet VPN, 2019\u201321",
+   "named": true,
+   "operated_by": "customer",
+   "source": "https://www.fortinet.com/blog/psirt-blogs/malicious-actor-discloses-fortigate-ssl-vpn-credentials",
+   "unit": "devices"
+  },
+  {
+   "count": 81000.0,
+   "cves": "CVE-2020-12271",
+   "hosted_hit": "NA",
+   "kind": "SQL injection",
+   "label": "Sophos firewalls, 2020",
+   "named": true,
+   "operated_by": "customer",
+   "source": "https://www.justice.gov/opa/pr/china-based-hacker-charged-conspiring-develop-and-deploy-malware-exploited-tens-thousands",
+   "unit": "firewalls"
+  },
+  {
+   "count": 44000.0,
+   "cves": "CVE-2026-41940",
+   "hosted_hit": "NA",
+   "kind": "Missing authentication",
+   "label": "cPanel web hosting, 2026",
+   "named": false,
+   "operated_by": "customer",
+   "source": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
+   "unit": "servers"
+  },
+  {
+   "count": 41983.0,
+   "cves": "CVE-2023-20198; CVE-2023-20273",
+   "hosted_hit": "NA",
+   "kind": "Access-control flaw + command injection",
+   "label": "Cisco IOS XE, 2023",
+   "named": true,
+   "operated_by": "customer",
+   "source": "https://www.bleepingcomputer.com/news/security/over-40-000-cisco-ios-xe-devices-infected-with-backdoor-using-zero-day/",
+   "unit": "devices"
+  },
+  {
+   "count": 30000.0,
+   "cves": "CVE-2021-26855; CVE-2021-26857; CVE-2021-26858; CVE-2021-27065",
+   "hosted_hit": "N",
+   "kind": "Request forgery, then file write",
+   "label": "Microsoft Exchange, 2021",
+   "named": false,
+   "operated_by": "both",
+   "source": "https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/",
+   "unit": "organizations in the US alone"
+  },
+  {
+   "count": 20000.0,
+   "cves": "CVE-2022-42475",
+   "hosted_hit": "NA",
+   "kind": "Buffer overflow",
+   "label": "Fortinet VPN, 2022\u201323",
+   "named": true,
+   "operated_by": "customer",
+   "source": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-20-000-fortigate-systems-worldwide/",
+   "unit": "devices"
+  },
+  {
+   "count": 15000.0,
+   "cves": "CVE-2022-40684",
+   "hosted_hit": "NA",
+   "kind": "Authentication bypass",
+   "label": "Fortinet firewalls, 2022",
+   "named": false,
+   "operated_by": "customer",
+   "source": "https://www.bleepingcomputer.com/news/security/hackers-leak-configs-and-vpn-credentials-for-15-000-fortigate-devices/",
+   "unit": "devices"
+  },
+  {
+   "count": 3000.0,
+   "cves": "CVE-2021-21974",
+   "hosted_hit": "NA",
+   "kind": "Buffer overflow, fixed two years earlier",
+   "label": "VMware ESXi, 2023",
+   "named": true,
+   "operated_by": "customer",
+   "source": "https://www.bleepingcomputer.com/news/security/new-esxiargs-ransomware-version-prevents-vmware-esxi-recovery/",
+   "unit": "servers"
+  },
+  {
+   "count": 2773.0,
+   "cves": "CVE-2023-34362",
+   "hosted_hit": "Y",
+   "kind": "SQL injection",
+   "label": "Progress MOVEit, 2023",
+   "named": true,
+   "operated_by": "both",
+   "source": "https://www.emsisoft.com/en/blog/44123/unpacking-the-moveit-breach-statistics-and-analysis/",
+   "unit": "organizations"
+  },
+  {
+   "count": 2000.0,
+   "cves": "CVE-2024-0012; CVE-2024-9474",
+   "hosted_hit": "N",
+   "kind": "Authentication bypass + command injection",
+   "label": "Palo Alto firewalls, 2024",
+   "named": true,
+   "operated_by": "both",
+   "source": "https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/",
+   "unit": "firewalls"
+  },
+  {
+   "count": 1952.0,
+   "cves": "CVE-2023-3519",
+   "hosted_hit": "N",
+   "kind": "Code injection",
+   "label": "Citrix NetScaler, 2023",
+   "named": false,
+   "operated_by": "both",
+   "source": "https://blog.fox-it.com/2023/08/15/approximately-2000-citrix-netscalers-backdoored-in-mass-exploitation-campaign/",
+   "unit": "devices"
+  },
+  {
+   "count": 1700.0,
+   "cves": "CVE-2023-46805; CVE-2024-21887; CVE-2024-21893",
+   "hosted_hit": "NA",
+   "kind": "Authentication bypass + command injection",
+   "label": "Ivanti VPN, 2024",
+   "named": true,
+   "operated_by": "customer",
+   "source": "https://www.volexity.com/blog/2024/01/15/ivanti-connect-secure-vpn-exploitation-goes-global/",
+   "unit": "devices"
+  }
+ ],
+ "named_kinds": 8,
+ "total": 12
+}

@@ -1,0 +1,93 @@
+{
+ "R&D share of revenue above the median": {
+  "median": 18.05,
+  "p": 0.2651837040739815,
+  "with_mass": 33,
+  "with_n": 303,
+  "with_vendors": 13,
+  "without_mass": 33,
+  "without_n": 492,
+  "without_vendors": 13
+ },
+ "company founded after the median year": {
+  "median": 1996.0,
+  "p": 0.4136465883529118,
+  "with_mass": 32,
+  "with_n": 268,
+  "with_vendors": 20,
+  "without_mass": 69,
+  "without_n": 781,
+  "without_vendors": 23
+ },
+ "flagship codebase newer than the median": {
+  "median": 2002.0,
+  "p": 0.6810797300674831,
+  "with_mass": 20,
+  "with_n": 175,
+  "with_vendors": 13,
+  "without_mass": 66,
+  "without_n": 685,
+  "without_vendors": 20
+ },
+ "flagship product acquired, not built": {
+  "p": 0.941764558860285,
+  "with_mass": 42,
+  "with_n": 401,
+  "with_vendors": 14,
+  "without_mass": 55,
+  "without_n": 541,
+  "without_vendors": 27
+ },
+ "more employees than the median": {
+  "median": 5846.5,
+  "p": 0.02174456385903524,
+  "with_mass": 64,
+  "with_n": 824,
+  "with_vendors": 22,
+  "without_mass": 35,
+  "without_n": 215,
+  "without_vendors": 22
+ },
+ "population": {
+  "mass": 107,
+  "vendors": 48,
+  "vulnerabilities": 1081
+ },
+ "private-equity owned": {
+  "p": 0.0032491877030742314,
+  "with_mass": 36,
+  "with_n": 170,
+  "with_vendors": 16,
+  "without_mass": 71,
+  "without_n": 911,
+  "without_vendors": 32
+ },
+ "public paid bug bounty": {
+  "p": 0.781054736315921,
+  "with_mass": 32,
+  "with_n": 311,
+  "with_vendors": 11,
+  "without_mass": 46,
+  "without_n": 506,
+  "without_vendors": 24
+ },
+ "revenue above the median": {
+  "median": 1305.9313479623825,
+  "p": 0.013996500874781305,
+  "with_mass": 65,
+  "with_n": 838,
+  "with_vendors": 24,
+  "without_mass": 42,
+  "without_n": 243,
+  "without_vendors": 24
+ },
+ "signed the Secure by Design pledge": {
+  "p": 0.79680079980005,
+  "with_mass": 47,
+  "with_n": 450,
+  "with_vendors": 17,
+  "without_mass": 59,
+  "without_n": 622,
+  "without_vendors": 29
+ }
+}

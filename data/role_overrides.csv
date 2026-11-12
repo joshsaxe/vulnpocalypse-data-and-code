@@ -1,0 +1,2 @@
+vendor,product,new_role,reason
+fortinet,forticlientems,srv_exposed,"FortiClient EMS is a management server, not client software; it was filed as client software because of its name"

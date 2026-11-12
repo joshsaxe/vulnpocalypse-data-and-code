@@ -1,0 +1,110 @@
+{
+ "by_company": {
+  "Amazon": [
+   0,
+   20
+  ],
+  "Apple": [
+   0,
+   205
+  ],
+  "Google": [
+   0,
+   345
+  ],
+  "Meta": [
+   1,
+   56
+  ],
+  "Microsoft": [
+   11,
+   397
+  ]
+ },
+ "class_2019_2025": {
+  "mass": 164,
+  "n": 3466,
+  "nd": 3414,
+  "nd_mass": 119,
+  "zd": 52,
+  "zd_mass": 45
+ },
+ "customer_installs": {
+  "mass": 262,
+  "n": 19491,
+  "nd": 19439,
+  "nd_mass": 217,
+  "zd": 52,
+  "zd_mass": 45
+ },
+ "everyone_else": [
+  300,
+  24987
+ ],
+ "four": [
+  1,
+  626
+ ],
+ "four_by_update_model": {
+  "customer": 19,
+  "downstream": 62,
+  "optional": 308,
+  "vendor": 237
+ },
+ "four_cases": [
+  [
+   "CVE-2025-55182",
+   "Meta",
+   "next.js",
+   "downstream"
+  ]
+ ],
+ "four_vendor": [
+  0,
+  237
+ ],
+ "hosted": {
+  "campaigns": 33,
+  "hit": 5,
+  "hit_events": [
+   "Fortra GoAnywhere MFT CVE-2023-0669",
+   "Progress MOVEit Transfer CVE-2023-34362",
+   "Cisco Unified Communications Manager CVE-2026-20045",
+   "Fortinet FortiCloud SSO zero-day CVE-2026-24858",
+   "Cisco Catalyst SD-WAN CVE-2026-20127"
+  ],
+  "years": [
+   "2021",
+   "2026"
+  ]
+ },
+ "microsoft": [
+  11,
+  397
+ ],
+ "microsoft_customer_patched": [
+  7,
+  63
+ ],
+ "microsoft_customer_patched_exchange_sharepoint": 6,
+ "microsoft_vendor": [
+  4,
+  333
+ ],
+ "rest_customer": [
+  255,
+  19409
+ ],
+ "rest_vendor": [
+  6,
+  413
+ ],
+ "vendor_installs": {
+  "mass": 10,
+  "n": 983,
+  "nd": 963,
+  "nd_mass": 5,
+  "zd": 20,
+  "zd_mass": 5
+ }
+}

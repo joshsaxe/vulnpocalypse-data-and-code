@@ -1,0 +1,5 @@
+parameter,low,high,basis
+appsec_staff_per_engineer,0.01,0.04,"BSIMM studies put the software security group at 1.1% to 1.5% of developers on average; the range is raised because these firms are more mature. The uplift is a judgment"
+cost_per_head_usd,280000,570000,"fully loaded cost of a security engineer at these firms, including stock; a judgment"
+overhead_multiplier,1.1,1.6,"tools, compute, bug bounties and contractors on top of staff; a judgment"
+appsec_share_of_rd,0.006,0.035,"application security as a share of software development spending; a judgment"
