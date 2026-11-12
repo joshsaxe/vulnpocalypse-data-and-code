@@ -1,6 +1,6 @@
 # Solutions to the vulnpocalypse are here: data and code
 
-Companion repository for the essay **"Solutions to the vulnpocalypse are here. They're just not evenly distributed"** by Joshua Saxe (November 2026). Post: _link to add_.
+Companion repository for the essay **"Solutions to the vulnpocalypse are here. They're just not evenly distributed"** by Joshua Saxe (November 2026). Post: [Read the essay on Substack](https://joshuasaxe181906.substack.com/p/solutions-to-the-vulnpocalypse-are).
 
 It contains the frozen data behind the essay, the code that draws all eight charts, and a script that recomputes every number quoted in the text. Nothing here needs a network connection or an API key.
 
